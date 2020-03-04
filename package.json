@@ -1,0 +1,12 @@
+{
+  "name": "todo-serverless-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:JackGaark/todo-serverless-react.git",
+  "author": "jack gaarkeuken <jack.gaarkeuken@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
